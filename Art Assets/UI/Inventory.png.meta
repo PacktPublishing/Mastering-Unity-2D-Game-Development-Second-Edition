@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: cf89b6a3ec2d36b41a1317b03c96cda3
+timeCreated: 1470027544
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Inventory_0
+    21300002: Inventory_1
+    21300004: Inventory_2
+    21300006: Inventory_3
+    21300008: Inventory_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Inventory_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 337
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.5, y: -84}
+        - {x: 137.5, y: -65}
+        - {x: 168.5, y: -23}
+        - {x: 168.5, y: 40}
+        - {x: 155.5, y: 58}
+        - {x: 127.5, y: 86}
+        - {x: 91.5, y: 105}
+        - {x: 60.5, y: 113}
+        - {x: -29.5, y: 113}
+        - {x: -63.5, y: 101}
+        - {x: -94.5, y: 85}
+        - {x: -125.5, y: 52}
+        - {x: -134.5, y: 30}
+        - {x: -137.5, y: -3}
+        - {x: -126.5, y: -35}
+        - {x: -168.5, y: -107}
+        - {x: -168.5, y: -113}
+        - {x: -151.5, y: -113}
+        - {x: -51.5, y: -90}
+        - {x: -4.5, y: -100}
+        - {x: 55.5, y: -97}
+    - name: Inventory_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 196
+        width: 671
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 335.5, y: 373.5}
+        - {x: 334.5, y: 375.5}
+        - {x: 327.5, y: 383.5}
+        - {x: 324.5, y: 384.5}
+        - {x: -324.5, y: 384.5}
+        - {x: -327.5, y: 383.5}
+        - {x: -334.5, y: 376.5}
+        - {x: -335.5, y: 373.5}
+        - {x: -335.5, y: -372.5}
+        - {x: -333.5, y: -377.5}
+        - {x: -328.5, y: -382.5}
+        - {x: -323.5, y: -384.5}
+        - {x: 323.5, y: -384.5}
+        - {x: 328.5, y: -382.5}
+        - {x: 333.5, y: -377.5}
+        - {x: 335.5, y: -372.5}
+    - name: Inventory_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 213
+        width: 147
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.5, y: 55.5}
+        - {x: -73.5, y: 49.5}
+        - {x: -73.5, y: -55.5}
+        - {x: 73.5, y: -55.5}
+        - {x: 73.5, y: 53.5}
+        - {x: 64.5, y: 55.5}
+    - name: Inventory_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 310
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155, y: -39}
+        - {x: 155, y: 41}
+        - {x: 148, y: 61}
+        - {x: 127, y: 75}
+        - {x: -124, y: 75}
+        - {x: -139, y: 68}
+        - {x: -148, y: 57}
+        - {x: -155, y: 40}
+        - {x: -155, y: -39}
+        - {x: -151, y: -52}
+        - {x: -135, y: -72}
+        - {x: -125, y: -75}
+        - {x: 126, y: -75}
+        - {x: 137, y: -69}
+        - {x: 150, y: -54}
+    - name: Inventory_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 55
+        width: 523
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 261.5, y: 34.5}
+        - {x: 260.5, y: 35.5}
+        - {x: 259.5, y: 39.5}
+        - {x: 254.5, y: 44.5}
+        - {x: -254.5, y: 44.5}
+        - {x: -259.5, y: 39.5}
+        - {x: -260.5, y: 35.5}
+        - {x: -261.5, y: 34.5}
+        - {x: -261.5, y: -35.5}
+        - {x: -258.5, y: -42.5}
+        - {x: -255.5, y: -44.5}
+        - {x: 255.5, y: -44.5}
+        - {x: 259.5, y: -40.5}
+        - {x: 260.5, y: -36.5}
+        - {x: 261.5, y: -35.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
