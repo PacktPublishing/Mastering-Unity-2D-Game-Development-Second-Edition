@@ -1,7 +1,7 @@
 # Mastering Unity 2D Game Development Second Edition
 By Packt
 
-This is the code repository for [Mastering Unity 2D Game Development Second Edition](https://www.packtpub.com/web-development/ionic-2-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781786463456), published by [Packt Publishing](https://www.packtpub.com/). It contains all the required files to run the code.
+This is the code repository for [Mastering Unity 2D Game Development Second Edition](https://www.packtpub.com/game-development/mastering-unity-2d-game-development-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786463456), published by [Packt Publishing](https://www.packtpub.com/). It contains all the required files to run the code.
 
 ##Who this book is for?
 
