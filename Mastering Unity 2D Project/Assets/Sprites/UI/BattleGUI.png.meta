@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: b4a21dc65f8037440837803c2d66eda9
+timeCreated: 1468202574
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BattleGUI_0
+    21300002: BattleGUI_1
+    21300004: BattleGUI_2
+    21300006: BattleGUI_3
+    21300008: BattleGUI_4
+    21300010: BattleGUI_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BattleGUI_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 172
+        width: 212
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: 36}
+        - {x: -106, y: -36}
+        - {x: 106, y: -36}
+        - {x: 106, y: 36}
+    - name: BattleGUI_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 138
+        width: 204
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BattleGUI_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 109
+        width: 132
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BattleGUI_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 93
+        width: 128
+        height: 7
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BattleGUI_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 51
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BattleGUI_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 55
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

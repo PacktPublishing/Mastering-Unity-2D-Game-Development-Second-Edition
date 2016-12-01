@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastering Unity 2D.CSharp", "Mastering Unity 2D.CSharp.csproj", "{A1227C56-1601-3013-468A-15AB54DDB78D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastering Unity 2D.CSharp.Editor", "Mastering Unity 2D.CSharp.Editor.csproj", "{84047F22-3EF8-4C16-4FCB-2219557871C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1227C56-1601-3013-468A-15AB54DDB78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1227C56-1601-3013-468A-15AB54DDB78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1227C56-1601-3013-468A-15AB54DDB78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1227C56-1601-3013-468A-15AB54DDB78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84047F22-3EF8-4C16-4FCB-2219557871C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84047F22-3EF8-4C16-4FCB-2219557871C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84047F22-3EF8-4C16-4FCB-2219557871C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84047F22-3EF8-4C16-4FCB-2219557871C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

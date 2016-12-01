@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 5213b382a880f224d82e5fdb7d84b6ed
+timeCreated: 1470637648
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: soundUI_0
+    21300002: soundUI_1
+    21300004: soundUI_2
+    21300006: soundUI_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: soundUI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 53}
+        - {x: -60, y: 34}
+        - {x: -60, y: -53}
+        - {x: 58, y: -53}
+        - {x: 60, y: -50}
+        - {x: 60, y: 46}
+        - {x: 59, y: 53}
+    - name: soundUI_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 53}
+        - {x: -60, y: 37}
+        - {x: -60, y: -53}
+        - {x: 57, y: -53}
+        - {x: 60, y: -44}
+        - {x: 60, y: 46}
+        - {x: 51, y: 53}
+    - name: soundUI_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 53.5}
+        - {x: -60, y: 50.5}
+        - {x: -60, y: -45.5}
+        - {x: -50, y: -53.5}
+        - {x: 59, y: -53.5}
+        - {x: 60, y: -50.5}
+        - {x: 60, y: 48.5}
+        - {x: 56, y: 53.5}
+    - name: soundUI_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 53.5}
+        - {x: -60, y: 51.5}
+        - {x: -60, y: -53.5}
+        - {x: 53, y: -53.5}
+        - {x: 60, y: -42.5}
+        - {x: 60, y: 48.5}
+        - {x: 57, y: 53.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
